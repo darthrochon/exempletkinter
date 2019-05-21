@@ -1,6 +1,7 @@
 from tkinter import *
 import string
 from random import randint, choice
+#commentaire test   
 
 #---------------------------------------------------------------------
 #fonction pour générer une chaine aléatoire
